@@ -16,7 +16,6 @@ I have studied for the past 3 and a half years. Below are my qualifications
 
 ![Massey](../../../src/images/bsc.png)
 
-![ITP](../../../src/images/itp.png)
 
 ## Micro-credential
 ### University of Auckland
