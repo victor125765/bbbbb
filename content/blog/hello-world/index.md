@@ -1,231 +1,101 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: Project Showcase
+
+description: "Some of my proudest projects I have done"
 ---
 
-This is my first post on my new fake blog! How exciting!
+Here are a few projects 
 
-I'm sure I'll write a lot more interesting things in the future.
+## Website Design Capstone Project
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
+> This was my 3rd year capstone project. 
+> I spent one semester going through the entire SDLC process of creating a website.
+> I was working with a group to deliver a product.
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
 
-![Chinese Salty Egg](./salty_egg.jpg)
+This was my IT capstone project completed in Sem 2 of 2022.
+As an assigned group we were tasked with revamping the design of an old Massey
+website used for Veterinary students. The old website had so many code errors
+so had to make do with what we had in our time frame.
 
-You can also write code blocks here!
+  Whilst doing the project, our group had to efficiently communicate amongst each other.
+We would help each other out when required to achieve our common goal.
+Additionally, we had weekly sessions with our lecturer/supervisor to report progress.
+Here is where we would ask questions about our work and look for guidance.
+We successfully used the Agile SDLC method, setting up a GANTT chart for the planing, analysis
+implementation and evaluation phases.
 
-```js
-const saltyDuckEgg = "chinese preserved food product"
-```
+In the end we successfully got out our new rendition of the Massey Website with a new look and we received an A grade for our work.
+Despite having so many prior code errors we had to make do with what we had
+Below are some screenshots of the work. 
 
-| Number | Title                                    | Year |
-| :----- | :--------------------------------------- | ---: |
-| 1      | Harry Potter and the Philosopher’s Stone | 2001 |
-| 2      | Harry Potter and the Chamber of Secrets  | 2002 |
-| 3      | Harry Potter and the Prisoner of Azkaban | 2004 |
 
-[View raw (TEST.md)](https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md)
 
-This is a paragraph.
+| Image | Description                                    
+| :--------- | :--------------------------------------- | 
+| 1      | The context |
+| 2      | Requirements gathering from client |
+| 3      | GANNT Chart showing tasks and timeframes |
+| 4      | One of the many UML diagrams. This is a Use Case |
+| 5      | Our design, still incorporating the infrastructure of the existing site. |
 
-    This is a paragraph.
 
-# Header 1
+![Background](../../../src/images/calveback.png)
+![Client Interview](../../../src/images/calveinterview.png)
+![Use Case](../../../src/images/calvediagra.png)
+![Gannt Chart](../../../src/images/calvegannt.png)
 
-## Header 2
+![Design](../../../src/images/calvedesign.png)
 
-    Header 1
-    ========
+## Django Airliner Website
+> This was my advanced web development course's second assignment. Here I used
+> the python framework Django in combination with HTML, CSS and deployed with Docker.
 
-    Header 2
-    --------
+| Image | Description                                    
+| :--------- | :--------------------------------------- | 
+| 1      | The home page |
+| 2      | The flights page header |
+| 3      | The flight map and scrolling down are dates |
+| 4      | After clicking a flight link, page to book it appears |
+| 5      | After selecting desired flight, if successful this appears |
+| 6      | A Django users function register. Successfully add the user to the Users tab to    then login. This allows user to sign in and make bookings. |
 
-# Header 1
+![Home page](../../../src/images/flyhome.png)
+![Header](../../../src/images/fly2.png)
+![Schedule](../../../src/images/fly3.png)
+![Book flight](../../../src/images/fly5.png)
+![Success](../../../src/images/fly6.png)
+![Register](../../../src/images/flyreg.png)
 
-## Header 2
 
-### Header 3
-
-#### Header 4
-
-##### Header 5
-
-###### Header 6
-
-    # Header 1
-    ## Header 2
-    ### Header 3
-    #### Header 4
-    ##### Header 5
-    ###### Header 6
-
-# Header 1
-
-## Header 2
-
-### Header 3
-
-#### Header 4
-
-##### Header 5
-
-###### Header 6
-
-    # Header 1 #
-    ## Header 2 ##
-    ### Header 3 ###
-    #### Header 4 ####
-    ##### Header 5 #####
-    ###### Header 6 ######
-
-> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
-
-    > Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
-
-> ## This is a header.
+## Python Psychological Profile
 >
-> 1. This is the first list item.
-> 2. This is the second list item.
->
-> Here's some example code:
->
->     Markdown.generate();
+> 1. This was an assignment for my advanced web development course.
+> 2. Here I made a psychological profile generator
+> 3. User 
 
-    > ## This is a header.
-    > 1. This is the first list item.
-    > 2. This is the second list item.
-    >
-    > Here's some example code:
-    >
-    >     Markdown.generate();
+| Image | Description                                    
+| :--------- | :--------------------------------------------------------- | 
+| 1      | Home page, showing buttons to press. |
+| 2      | After clicking "Go to form, a new window opens with the form. |
+| 3      | The rest of the form showing different question styles. |
+| 3      | After submitting the form, returning to home page Load Data is now loaded withJSON data to display. Shows answers in plain text. |
+| 3      | Using an API a random image is selected from a database of animal images.
+            Here a random image is called and displayed depending on what animal was ticked in the form. |
+| 3      | Based on the form a movie is also suggested. |
 
-- Red
-- Green
-- Blue
+![Form](../../../src/images/pyschoform1.png)
+![Form2](../../../src/images/psychoform2.png)
+![Home](../../../src/images/psychohome.png)
 
-* Red
-* Green
-* Blue
+## This website!
 
-- Red
-- Green
-- Blue
+I had previously created a website version of my CV in HTML and CSS but it wasn't satisying my need for more
+knowledge. Neither was it fully showcasing my learning capability and skills.
 
-```markdown
-- Red
-- Green
-- Blue
+Hence, I applied myself to learn a completely new language which is Gatsby!
 
-* Red
-* Green
-* Blue
+Gatsby is a far more complex language than HTML is. It uses react.js and a web of configuring files to produce
+the front-end website you see here. 
 
-- Red
-- Green
-- Blue
-```
-
-- `code goes` here in this line
-- **bold** goes here
-
-```markdown
-- `code goes` here in this line
-- **bold** goes here
-```
-
-1. Buy flour and salt
-1. Mix together with water
-1. Bake
-
-```markdown
-1. Buy flour and salt
-1. Mix together with water
-1. Bake
-```
-
-1. `code goes` here in this line
-1. **bold** goes here
-
-```markdown
-1. `code goes` here in this line
-1. **bold** goes here
-```
-
-Paragraph:
-
-    Code
-
-<!-- -->
-
-    Paragraph:
-
-        Code
-
----
-
----
-
----
-
----
-
----
-
-    * * *
-
-    ***
-
-    *****
-
-    - - -
-
-    ---------------------------------------
-
-This is [an example](http://example.com "Example") link.
-
-[This link](http://example.com) has no title attr.
-
-This is [an example][id] reference-style link.
-
-[id]: http://example.com "Optional Title"
-
-    This is [an example](http://example.com "Example") link.
-
-    [This link](http://example.com) has no title attr.
-
-    This is [an example] [id] reference-style link.
-
-    [id]: http://example.com "Optional Title"
-
-_single asterisks_
-
-_single underscores_
-
-**double asterisks**
-
-**double underscores**
-
-    *single asterisks*
-
-    _single underscores_
-
-    **double asterisks**
-
-    __double underscores__
-
-This paragraph has some `code` in it.
-
-    This paragraph has some `code` in it.
-
-![Alt Text](https://via.placeholder.com/200x50 "Image Title")
-
-    ![Alt Text](https://via.placeholder.com/200x50 "Image Title")
+I hope you like it :)
