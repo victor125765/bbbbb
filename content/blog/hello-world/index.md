@@ -79,10 +79,9 @@ Below are some screenshots of the work.
 | 1      | Home page, showing buttons to press. |
 | 2      | After clicking "Go to form, a new window opens with the form. |
 | 3      | The rest of the form showing different question styles. |
-| 3      | After submitting the form, returning to home page Load Data is now loaded withJSON data to display. Shows answers in plain text. |
-| 3      | Using an API a random image is selected from a database of animal images.
-            Here a random image is called and displayed depending on what animal was ticked in the form. |
-| 3      | Based on the form a movie is also suggested. |
+| 4      | After submitting the form, returning to home page Load Data is now loaded withJSON data to display. Shows answers in plain text. |
+| 5      | Using an API a random image is selected from a database of animal images. Here a random image is called and displayed depending on what animal was ticked in the form. |
+| 6      | Based on the form, a movie is also suggested. |
 
 ![Form](../../../src/images/pyschoform1.png)
 ![Form2](../../../src/images/psychoform2.png)

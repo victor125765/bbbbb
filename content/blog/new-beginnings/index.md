@@ -17,6 +17,7 @@ I have studied for the past 3 and a half years. Below are my qualifications
 ![Massey](../../../src/images/bsc.png)
 
 
+
 ## Micro-credential
 ### University of Auckland
  September 2023 - December 2023
