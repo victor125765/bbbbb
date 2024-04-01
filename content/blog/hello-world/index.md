@@ -51,6 +51,10 @@ Below are some screenshots of the work.
 > This was my advanced web development course's second assignment. Here I used
 > the python framework Django in combination with HTML, CSS and deployed with Docker.
 
+The task was to create a faux airliner booking website.
+We had quite a lot of freedom in how to go about completing the task.
+This included choosing which HTTP python framework we would use. I made the decision to useDjango. I received an A for my work.
+
 | Image | Description                                    
 | :--------- | :--------------------------------------- | 
 | 1      | The home page |
@@ -69,10 +73,14 @@ Below are some screenshots of the work.
 
 
 ## Python Psychological Profile
->
+
 > 1. This was an assignment for my advanced web development course.
-> 2. Here I made a psychological profile generator
-> 3. User 
+> I made a psychological profile generator
+
+The task was to create a psychological portfolio for the user.
+The user would fill out a form, including radio buttons and some multi-choice.
+Based off that the Python program would determine if they were a good fit for
+their dream job. Additionally, it would display their favourite animal and suggest a movie. I received an A+ for my work
 
 | Image | Description                                    
 | :--------- | :--------------------------------------------------------- | 
